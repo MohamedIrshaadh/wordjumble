@@ -10,6 +10,7 @@
     <ImageView
         android:id="@+id/lineright"
         android:layout_width="136dp"
+
         android:layout_height="26dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

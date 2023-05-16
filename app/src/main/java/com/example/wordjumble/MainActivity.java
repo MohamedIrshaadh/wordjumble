@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
                 scoreshow.setText("your last Score:" + maximum);
             }
         });
-        Button button;
+        Button  button;
         button = findViewById(R.id.button1);//start button
         EditText text = (EditText)findViewById(R.id.edittext1);
         EditText hint =(EditText)findViewById(R.id.editTextText3);

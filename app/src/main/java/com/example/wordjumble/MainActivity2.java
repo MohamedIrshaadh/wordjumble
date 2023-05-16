@@ -31,7 +31,7 @@ public class MainActivity2 extends AppCompatActivity {
         try {
             val = Integer.parseInt(str);
         }
-        catch (NumberFormatException e) {
+        catch (NumberFormatException e){
 
             // This is thrown when the String
             // contains characters other than digits
